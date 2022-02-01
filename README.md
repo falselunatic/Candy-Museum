@@ -8,6 +8,7 @@ create a fascinating user interface to show off your candy museum & connect with
 * Use bootstrap framework.
 * Add navigation-bar which changes its colour after attaining a certain height. 
 * Add components of bootstrap as well such as modal for getting details of user.
+* Dummy text used.
 ---
 # Glimpses of Project
 
